@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python and honing my data analytical skills across all platforms/skills.
 - 💞️ I’m looking to get employed and be a positive influence and a power for change.
 - 📫 How to reach me : mothusidlamini@gmail.com or DM me on my linkedin [here](https://www.linkedin.com/in/mothusi-dlamini-624bba69/).
-- See my visualization journey on my tableau profile: https://public.tableau.com/app/profile/mothusi8530
+- See my visualization journey on my tableau profile [here](https://public.tableau.com/app/profile/mothusi8530).
 
 
 
