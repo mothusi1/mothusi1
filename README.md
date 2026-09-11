@@ -7,7 +7,7 @@ My professional background is in **digital advertising and ad tech**, where I've
 ## 🛠️ Tools & Technologies
 
 **Data & Analytics:** SQL • Vertica • Databricks • Tableau • Excel • SparkSQL
-**Programming:** Python • R
+**Programming:** HTML & CSS • Python • C# • R
 **Development & Tools:** Git/GitHub • DataGrip • PyCharm • Azure
 
 ## 📊 What I Work On
